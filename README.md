@@ -47,6 +47,8 @@ Pour lancer les tests unitaires, `npm test`
 ⚠️ Il vous est demandé de remplir le test `#SYNCHRO` dans le fichier `test/test.js` une fois votre synchro terminée.
 En effet il faut lancer la synchro afin de la tester (Et nous n'obligeons pas à créer un `SynchroService` comme fait dans les commentaires, vous êtes libres de faire comme vous le souhaitez)
 
+Pour la connexion à la BD, placer le fichier JSON que nous vous donnerons dans un dossier `secret` à la racine du projet
+
 ## Format des données :
 
 Les données sont au format JSON.
