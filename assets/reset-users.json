@@ -1,46 +1,46 @@
 [
     {
-        "nom": "Laborderie",
+        "lastName": "Laborderie",
         "prenom": "Antoine",
         "id_ext": "LAB-ANTOINE",
         "email": "alaborderie@test.com",
         "domicile": "--"
     },
     {
-        "nom": "Dupont",
-        "prenom": "Jean",
+        "lastName": "Dupont",
+        "firstName": "Jean",
         "id_ext": "DUP-JEAN",
         "email": "djean@test.com",
         "domicile": "--"
     },
     {
-        "nom": "Admin",
-        "prenom": "Admin",
+        "lastName": "Admin",
+        "firstName": "Admin",
         "email": "admin@lekooa.com"
     },
     {
-        "nom": "Kreckelbergh",
-        "prenom": "Stéphane",
+        "lastName": "Kreckelbergh",
+        "firstName": "Stéphane",
         "email": "skreckelbergh@lekooa.com",
         "domicile": "Pays basque"
     },
     {
-        "nom": "test",
-        "prenom": "test",
+        "lastName": "test",
+        "firstName": "test",
         "id_ext": "TES-TEST",
         "email": "ttest@test.com",
         "domicile": "test"
     },
     {
-        "nom": "Arsaut",
-        "prenom": "Julien",
+        "lastName": "Arsaut",
+        "firstName": "Julien",
         "id_ext": "ARS-JULIEN",
         "email": "kikou7786@test.com",
         "domicile": "--"
     },
     {
-        "nom": "Lecar",
-        "prenom": "Dominique",
+        "lastName": "Lecar",
+        "firstName": "Dominique",
         "id_ext": "LEC-DOMINIQUE",
         "email": "dlecar@test.com",
         "domicile": "In the deep"
