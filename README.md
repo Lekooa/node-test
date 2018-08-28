@@ -59,7 +59,8 @@ Pour notre BD, un `user` est comme suit :
     "firstName": "Prenom",
     "lastName": "Nom",
     "email": "unmail@test.com",
-    "id_ext": "IDENTIFIANT_EXTERNE"
+    "id_ext": "IDENTIFIANT_EXTERNE",
+    "domicile": "L'adresse de la personne"
 }
 ```
 
@@ -77,6 +78,8 @@ Il fait parti d'un objet Firebase `users` qui est donc comme suit :
     }
 }
 ```
+
+Le champ `domicile` est facultatif et peut donc avoir la valeur `undefined` (Il n'est donc pas visible dans l'objet firebase)
 
 L'identifiant d'un utilisateur est en fait sa `key` dans l'objet supérieur stocké sur Firebase
 
